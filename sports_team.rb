@@ -30,31 +30,6 @@ end
 
 end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# def pets_by_breed(pet_shop, breed)
-#   matches = []
-#   for pet in pet_shop[:pets]
-#     matches << pet if(pet[:breed] == breed)
-#   end
-#   return matches
-# end
-
-# player_match = player
-
 # def get_team_name()
 #   return team[:name]
 # end
